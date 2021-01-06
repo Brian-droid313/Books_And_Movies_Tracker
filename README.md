@@ -1,4 +1,4 @@
-# Book_And_Movie_Tracker
+# Books_And_Movies_Tracker
 
 This application allows someone to keep track of the books and movies that they have read or seen. They can also list books and movies 
 they want to see in the near future.
